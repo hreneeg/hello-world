@@ -1,3 +1,1 @@
-# hello-world
-Hello World
-I'm a student at UA.
+Software engineering project- Spring 2015
